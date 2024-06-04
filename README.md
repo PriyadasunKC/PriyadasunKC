@@ -8,13 +8,14 @@ Hello, I'm Chathura Priyadasun 👋<br><br>- 🌍 I'm based in Sri Lanka.<br>- �
 💻 Tech Stack:
 
 **Programming Languages:**
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
-
 **Frontend:**
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -25,15 +26,18 @@ Hello, I'm Chathura Priyadasun 👋<br><br>- 🌍 I'm based in Sri Lanka.<br>- �
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) 
 
 **Backend:**
+
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/Express.js-494949?style=for-the-badge&logo=express&logoColor=white) 
 
 **Database:**
+
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MS SQL](https://img.shields.io/badge/MS_SQL-CC6633?style=for-the-badge&logo=mssql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
 
 **DevOps:**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Ansible](https://img.shields.io/badge/Ansible-FF6347?style=for-the-badge&logo=ansible&logoColor=white) 
@@ -47,6 +51,7 @@ Hello, I'm Chathura Priyadasun 👋<br><br>- 🌍 I'm based in Sri Lanka.<br>- �
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
 **Other:**
+
 ![TreeJS](https://img.shields.io/badge/TreeJS-007BFF?style=for-the-badge&logo=treejs&logoColor=white) 
 
 # 📊 GitHub Stats:
