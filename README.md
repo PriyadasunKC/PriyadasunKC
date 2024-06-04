@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Chathura Priyadasun 👋<br><br>- 🌍 I'm based in Sri Lanka.<br>- 💼 I'm an undergraduate at the University of Moratuwa.<br>- 🌱 I'm passionate about Web Development and App Developing.<br>- 📚 I'm currently learning [C, C#, Python, Java, Js /Angular Js, React Js, Node Js, Express Js].<br>- 💡 I love building [Web Apps, Mobile Apps].<br>- 🎯 My goal is to [Contribute to more projects" ].
+Hello, I'm Chathura Priyadasun 👋<br><br>- 🌍 I'm based in Sri Lanka.<br>- 💼 I'm an undergraduate at the University of Moratuwa.<br>- 🌱 I'm passionate about Web Development and DevOps culture.<br>- 📚 I'm currently learning [C, C#, Python, Java, Js , React Js, Node Js, Express Js , Jenkins , Ansible , Docker , Kubernetes , Terraform , AWS ].<br>- 💡 I love building [Web Apps, Mobile Apps].<br>- 🎯 My goal is to [Contribute to more projects" ].
 
 
 ## 🌐 Socials:
@@ -22,6 +22,7 @@ Hello, I'm Chathura Priyadasun 👋<br><br>- 🌍 I'm based in Sri Lanka.<br>- �
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![Material-UI](https://img.shields.io/badge/Material-UI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) 
+![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) 
 
 **Backend:**
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
@@ -37,14 +38,16 @@ Hello, I'm Chathura Priyadasun 👋<br><br>- 🌍 I'm based in Sri Lanka.<br>- �
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Ansible](https://img.shields.io/badge/Ansible-FF6347?style=for-the-badge&logo=ansible&logoColor=white) 
 ![Jenkins](https://img.shields.io/badge/Jenkins-303F9F?style=for-the-badge&logo=jenkins&logoColor=white) 
-![Maven](https://img.shields.io/badge/Maven-C71A7F?style=for-the-badge&logo=apache-maven&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-FF7F50?style=for-the-badge&logo=terraform&logoColor=white) 
+![Maven](https://img.shields.io/badge/Maven-C71A7F?style=for-the-badge&logo=apache-maven&logoColor=white) 
+![SonarQube](https://img.shields.io/badge/SonarQube-2962FF?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F86C00?style=for-the-badge&logo=apache-tomcat&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
 **Other:**
 ![TreeJS](https://img.shields.io/badge/TreeJS-007BFF?style=for-the-badge&logo=treejs&logoColor=white) 
-![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PriyadasunKC&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
