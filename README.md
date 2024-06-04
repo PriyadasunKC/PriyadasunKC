@@ -21,7 +21,6 @@ Hello, I'm Chathura Priyadasun 👋<br><br>- 🌍 I'm based in Sri Lanka.<br>- �
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) 
-
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Ansible](https://img.shields.io/badge/Ansible-FF6347?style=for-the-badge&logo=ansible&logoColor=white) 
 ![Jenkins](https://img.shields.io/badge/Jenkins-303F9F?style=for-the-badge&logo=jenkins&logoColor=white) 
